@@ -1,0 +1,8 @@
+platform win32 -- Python 3.7.3, pytest-6.2.5, py-1.11.0, pluggy-1.0.0
+rootdir: C:\Users\Михаил Мартьянов\PycharmProjects\AAA
+plugins: cov-3.0.0
+collected 4 items                                                                                                                                         
+
+test_issue-02.py ....                                                                                                                               [100%]
+
+=================================================================== 4 passed in 0.04s ====================================================================
