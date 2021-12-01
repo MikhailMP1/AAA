@@ -1,0 +1,4 @@
+plugins: cov-3.0.0
+collected 3 items                                                                                                                                         
+
+test_issue-05.py ...                                                                                                                                [100%]
