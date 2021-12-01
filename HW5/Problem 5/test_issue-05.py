@@ -59,6 +59,4 @@ def test_for_errors():
 
     with patch.object(urllib.request, 'urlopen'), patch.object(json, 'load', return_value=data_json):
         with pytest.raises(ValueError):
-             what_is_year_now()
-
-# python -m pytest test_issue-05.py
+            what_is_year_now()
